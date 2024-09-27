@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pmdm-t2-02</string>
+
+    <!-- Control de ciclo de vida de la app -->
+    <string name="create">Bienvenido a la app</string>
+    <string name="stop">Parando app</string>
+    <string name="restart">app restored</string>
+
+</resources>
